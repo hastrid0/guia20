@@ -1,2 +1,2 @@
-# guia20
-bases de datos no relacionales
+# Guia19
+Conexion back y frontend 
